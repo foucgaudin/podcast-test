@@ -7,5 +7,5 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run feed gen
-        uses: foucgaudin/podcat-gen@main
+        uses: foucgaudin/podcast-gen@main
 
